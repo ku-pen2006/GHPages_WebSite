@@ -1,4 +1,4 @@
-default:
+piyo :
   name: "Misaki Saneto"
   avatar: "/assets/images/ushi.png"
   bio: "KITHUBで行われた勉強会の登壇者です。"
