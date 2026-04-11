@@ -36,7 +36,7 @@ permalink: /
 - 星野源
 - Toby Fox  
 最近はいろいろ聴いてます♪  
-![image](/GHPages_model/assets/images/FujiKaze.jpg)
+![image](/GHPages_WebSite/assets/images/FujiKaze.jpg)
 
 ### 好きなアニメ3選
 - ハズビン
