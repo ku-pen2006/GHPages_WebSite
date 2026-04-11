@@ -2,6 +2,10 @@
 title: "はじめてのWeb公開"
 author: piyo
 permalink: /
+gallery_hobby:  # 上記 include で指定した id と合わせる
+  - url: /assets/images/my-hobby.jpg      # 画像のパス
+    image_path: /assets/images/my-hobby.jpg # 画像のパス（通常は url と同じ）
+    alt: "趣味の画像"
 ---
 
 
@@ -25,9 +29,11 @@ permalink: /
 ---
 
 ### 好きなゲーム3選
-- Undertale
-- ゼルダの伝説BoW
-- 逆転検事2  
+* Undertale
+* ゼルダの伝説BotW
+* 逆転検事2
+
+{% include gallery id="gallery_game" %}
 ###### 最近ゲームする時間がありません♪  
 
 
