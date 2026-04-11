@@ -13,7 +13,7 @@ permalink: /
 
 # **About me**
 ### 名前 
-- Misaki Saneto(さねこ)
+####  Misaki Saneto(さねこ)
 
 ### 趣味
 - イラスト作成(メモこそ正義)
