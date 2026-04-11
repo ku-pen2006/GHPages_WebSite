@@ -52,6 +52,7 @@ gallery_music:  # 上記 include で指定した id と合わせる
 {% include gallery id="gallery_game" %}
 ###### 最近はゲームする時間がありません♪  
 
+---
 
 ### 好きなアーティスト3選
 - 藤井風
@@ -60,6 +61,7 @@ gallery_music:  # 上記 include で指定した id と合わせる
 {% include gallery id="gallery_music" %}
 ###### 最近はいろいろ聴いてます♪  
 
+---
 
 
 ### 好きなアニメ3選
@@ -67,8 +69,12 @@ gallery_music:  # 上記 include で指定した id と合わせる
 - ヘタリア
 - ゴールデンカムイ
 
+---
+
 ### 好きなVtuber
 - バーチャルおばあちゃん
+
+---
 
 ### 今まで触った技術
 - Swift
@@ -78,7 +84,7 @@ gallery_music:  # 上記 include で指定した id と合わせる
 - Flutter
 - C++(最近始めたばかり)
 
-
+---
 
 [リンク](https://www.google.co.jp/)
 
