@@ -28,14 +28,14 @@ permalink: /
 - Undertale
 - ゼルダの伝説BoW
 - 逆転検事2  
-##### 最近ゲームする時間がありません♪  
+###### 最近ゲームする時間がありません♪  
 
 
 ### 好きなアーティスト3選
 - 藤井風
 - 星野源
 - Toby Fox  
-##### 最近はいろいろ聴いてます♪  
+###### 最近はいろいろ聴いてます♪  
 ![image](/GHPages_WebSite/assets/images/FujiKaze.jpg)
 
 ### 好きなアニメ3選
