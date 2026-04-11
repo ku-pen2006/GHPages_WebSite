@@ -13,14 +13,14 @@ gallery_game:  # 上記 include で指定した id と合わせる
     image_path: /assets/images/gyakuten.jpg # 画像のパス（通常は url と同じ）
     alt: "画像だよ"
 gallery_music:  # 上記 include で指定した id と合わせる
-  - url: /assets/images/undertale.jpg      # 画像のパス
-    image_path: /assets/images/undertale.jpg    # 画像のパス（通常は url と同じ）
+  - url: /assets/images/FujiKaze.jpg      # 画像のパス
+    image_path: /assets/images/FujiKaze.jpg    # 画像のパス（通常は url と同じ）
     alt: "画像"
-  - url: /assets/images/botw.jpeg      # 画像のパス
-    image_path: /assets/images/botw.jpeg  # 画像のパス（通常は url と同じ）
+  - url: /assets/images/GenHoshino.jpeg      # 画像のパス
+    image_path: /assets/images/GenHoshino.jpeg   # 画像のパス（通常は url と同じ）
     alt: "画像"
-  - url: /assets/images/gyakuten.jpg      # 画像のパス
-    image_path: /assets/images/gyakuten.jpg # 画像のパス（通常は url と同じ）
+  - url: /assets/images/toby.jpg      # 画像のパス
+    image_path: /assets/images/toby.jpg  # 画像のパス（通常は url と同じ）
     alt: "画像だよ"
 ---
 
