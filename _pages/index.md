@@ -1,6 +1,6 @@
 ---
 title: "はじめてのWeb公開"
-author: default
+author: piyo
 permalink: /
 ---
 
