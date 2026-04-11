@@ -34,6 +34,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      author: default
+      author: piyo
 
 theme: jekyll-theme-slate
