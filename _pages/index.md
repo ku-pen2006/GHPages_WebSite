@@ -2,7 +2,7 @@
 title: "はじめてのWeb公開"
 author: piyo
 permalink: /
-gallery_hobby:  # 上記 include で指定した id と合わせる
+gallery_game:  # 上記 include で指定した id と合わせる
   - url: /assets/images/undertale.jpg      # 画像のパス
     image_path: /assets/images/undertale.jpg    # 画像のパス（通常は url と同じ）
     alt: "画像"
