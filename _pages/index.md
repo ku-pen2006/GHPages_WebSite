@@ -57,7 +57,7 @@ gallery_music:  # 上記 include で指定した id と合わせる
 ### 好きなアーティスト3選
 - 藤井風
 - 星野源
-- Toby Fox
+- Toby Fox  
 {% include gallery id="gallery_music" %}
 ###### 最近はいろいろ聴いてます♪  
 
