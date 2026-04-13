@@ -18,7 +18,7 @@ gallery_music:  # 上記 include で指定した id と合わせる
     alt: "画像"
   - url: /assets/images/GenHoshino.jpeg      # 画像のパス
     image_path: /assets/images/GenHoshino.jpeg   # 画像のパス（通常は url と同じ）
-    alt: "画像"
+    alt: "画像y"
   - url: /assets/images/toby.jpeg      # 画像のパス
     image_path: /assets/images/toby.jpeg  # 画像のパス（通常は url と同じ）
     alt: "画像だよ"
